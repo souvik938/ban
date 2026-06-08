@@ -1,0 +1,7 @@
+requests
+cfonts
+pycryptodome
+Pillow
+colorama
+readline
+pyreadline3
