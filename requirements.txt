@@ -6,3 +6,4 @@ Pillow
 colorama
 readline
 pyreadline3
+flask-cors
